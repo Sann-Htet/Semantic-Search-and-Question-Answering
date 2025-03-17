@@ -1,2 +1,13 @@
-# Semantic-Search-and-Question-Answering
-Built a semantic search and question-answering system that enhances search accuracy by finding related terms and providing relevant answers based on similarity.
+# document similairty experiments
+
+install pdm :
+
+```bash
+curl -sSL https://pdm-project.org/install-pdm.py | python3 -
+```
+
+install packages :
+
+```bash
+pdm install
+```
